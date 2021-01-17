@@ -10,3 +10,5 @@ The main reason for this is to help you kick-start code with TinyGPS++, in repla
 *UPDATE 2020/01/17*
 
 I added OLED code to display the time (UTC for now) and coordinates when available.
+
+![WisBlockInAction](WisBlockInAction.jpg)
